@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/Valdemiris/Geolocation-Helper.git" 
   },
   "keywords": [ 
     "", 
     "",
     ""
   ],
-  "author": "", 
+  "author": "valdemiris", 
   "license": "MIT"
 }
